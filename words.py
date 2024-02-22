@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  cod.py
+#  words.py
 #  
 #  Copyright 2024 William Martinez Bas <metfar@gmail.com>
 #  
